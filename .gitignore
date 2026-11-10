@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+
+# Environment files and secrets
+.env
+.env.*
+!.env.example
+
+# Build output and caches
+.expo/
+dist/
+web-build/
+coverage/
+android/.gradle/
+android/local.properties
+android/**/build/
+
+# IDE and operating system files
+.vs/
+.idea/
+*.iml
+*.suo
+.DS_Store
+Thumbs.db
+
+# Local signing keys
+*.keystore
+
+# Logs
+*.log
+npm-debug.log*
