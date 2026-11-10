@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Splenexa",
+    "slug": "splenexa",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#8CD3E5",
+      "resizeMode": "contain"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.rajdharmapath.splenexa"
+    }
+  }
+}
