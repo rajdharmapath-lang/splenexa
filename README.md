@@ -1,2 +1,2 @@
 # splenexa
-splenexa project fmge
+Splenexa Project FMGE
